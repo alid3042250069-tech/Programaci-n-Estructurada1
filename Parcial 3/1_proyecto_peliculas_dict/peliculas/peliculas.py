@@ -1,5 +1,5 @@
 import funciones
-
+import funciones from crud
 def menuPrincipal():
     print("\n\t\t\t...::: M E N U   P R I N C I P A L :::... \n")
     opcion = input("\n\t 1.- Agregar \n\t 2.- Borrar \n\t 3.- Modificar \n\t 4.- Mostrar \n\t 5.- Buscar \n\t 6.- Limpiar \n\t 7.- Salir \n \t\tElige una Opcion: ").strip()
