@@ -10,7 +10,7 @@ Notas:
 import funciones
 from peliculas import peliculas
 
-pelis=[]
+pelis=()
 opc="1"
 while opc!="7":
     funciones.borrarPantalla()
