@@ -1,5 +1,4 @@
 import funciones
-from peliculas import crud
 
 def menuPrincipal():
     print("\n\t\t\t...::: M E N U   P R I N C I P A L :::... \n")
