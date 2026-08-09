@@ -1,0 +1,5 @@
+===============================================
+    REPORTE DE COBRO DE ELECTRODOMÉSTICOS      
+===============================================
+
+ID: 2 | Concepto: reperacion | Total: $23.20 | SubIVA: $3.20

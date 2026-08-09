@@ -1,0 +1,8 @@
+===============================================
+     REPORTE DE CÁLCULOS LEY DE OHM           
+===============================================
+
+ID: 1 | Operación: voltaje | Resultado: 10 Amperios
+ID: 2 | Operación: Voltaje | Resultado: 100.00 V
+ID: 3 | Operación: Voltaje | Resultado: 100.00 V
+ID: 4 | Operación: Voltaje | Resultado: 100.00 V
